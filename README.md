@@ -21,16 +21,11 @@
 
 ### <b>Screenshots of the project :</b>
 
-![Start menu](screenshots/start.png "Start")
+![Start menu](Screenshots/GameStart.png "Start")
 </br>
-![Start menu](screenshots/level1.png "Start")
+![Start menu](Screenshots/InGame.png "Game")
 </br>
-![Start menu](screenshots/level3.png "Start")
-</br>
-![Start menu](screenshots/final_level.png "Start")
-</br>
-![Start menu](screenshots/game_over.png "Start")
-
+![Start menu](Screenshots/GameOver.png "GameOver")
 
 <div align="center">
 
