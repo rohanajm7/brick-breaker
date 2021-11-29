@@ -1,4 +1,4 @@
-<h1 align="center">Sky Jump</h1>
+<h1 align="center">Brick Breaker</h1>
 <div align="center">
   <h2> A 2D game built using computer graphics and visualization concepts in python.</h2>
     <h3>
@@ -46,7 +46,7 @@
 Clone the project -
 
 ```
-  git clone https://github.com/thecoderenroute/pygame-2d-platformer.git
+  git clone https://github.com/rohanajm7/brick-breaker.git
 ```
 
 Install all the requirements -
@@ -62,13 +62,13 @@ Start the project, navigate to the project directory on the terminal;
 for linux/mac :
 
 ```
-  python game.py
+  python brickbreaker.py
 ```
 
 for windows :
 
 ```
-  python game.py
+  python brickbreaker.py
 ```
 
 <h4>
