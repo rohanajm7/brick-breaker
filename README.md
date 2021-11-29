@@ -2,7 +2,7 @@
 <div align="center">
   <h2> A 2D game built using computer graphics and visualization concepts in python.</h2>
     <h3>
-  Names: Rohan Ajmera<br>
+  Name: Rohan Ajmera<br>
   Roll No: 1911002<br>
   Course: Computer Graphics & Vision<br>
   Faculty: Vaibhav Vasani<br>
